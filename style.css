@@ -1,0 +1,22 @@
+body {
+	background: lightcoral;
+}
+
+h1 {
+	background-color: whitesmoke;
+	padding: 10px;
+	border: solid 2px;
+	margin: 20px;
+	text-align:  center;
+}
+
+
+div {
+text-align: center;
+border: solid 2px black;
+margin: 10px;
+padding: 10px;
+font-family: Verdana;
+color: indigo;
+font-size: 15px;
+}
